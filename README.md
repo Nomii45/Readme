@@ -53,6 +53,6 @@ _(keep updating daily or weekly!)_
 - 🌐 Portfolio: _Coming Soon_
 
 ---
-
+Don't be motivated, be a consistant
 > “Consistency is more important than perfection.”
 
