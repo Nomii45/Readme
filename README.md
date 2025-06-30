@@ -1,22 +1,5 @@
 # 📘 My Learning Progress (Frontend + Backend)
 
-Welcome to my learning journey as a self-taught MERN Stack Developer. This repository documents my daily learning, practice, and projects to stay consistent and focused.
-
----
-
-## 🔥 100 Days of Code Challenge (or Daily Learnings)
-
-| Day | Date       | Topic                      | Summary                                              |
-|-----|------------|----------------------------|------------------------------------------------------|
-| 1   | June 25, 2025 | React Hero Section        | Built animated "DEVELOPER / CODER" effect in React  |
-| 2   | June 26, 2025 | Contact Form Backend      | Created Express API and connected to MongoDB        |
-| 3   | June 27, 2025 | Nodemailer Integration    | Sent emails from frontend contact form using Node.js |
-| 4   | June 28, 2025 | Backend Debugging         | Solved MongoDB and Port issues during development    |
-
-_(keep updating daily or weekly!)_
-
----
-
 ## 📚 Tech I'm Focusing On
 
 - **Frontend**: React.js, Tailwind CSS, JavaScript ES6+
@@ -32,7 +15,7 @@ _(keep updating daily or weekly!)_
 |---------------------|-------------------------|--------------------------------------|
 | Developer Portfolio | MERN Stack              | A personal website to showcase my work |
 | Google Clone        | React + Search API      | Search engine clone with real results |
-| Chat App UI         | React + Router + State  | Frontend layout with status badges   |
+| Chat App         |  MERN Stack  | Frontend layout with status badges   |
 
 ---
 
