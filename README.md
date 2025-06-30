@@ -15,7 +15,7 @@
 |---------------------|-------------------------|--------------------------------------|
 | Developer Portfolio | MERN Stack              | A personal website to showcase my work |
 | Google Clone        | React + Search API      | Search engine clone with real results |
-| Chat App         |  MERN Stack  | Frontend layout with status badges   |
+| Chat App            |  MERN Stack             | A type real chat app to connect with people   |
 
 ---
 
