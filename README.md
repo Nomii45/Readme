@@ -33,7 +33,7 @@
 
 - 📧 Email: nomiuttra4596@gmail.com  
 - 💼 GitHub: [@nomi4596](https://github.com/nomi4596)  
-- 🌐 Portfolio: _Coming Soon_
+- 🌐 Portfolio: _https://nouman-naqbool-portfolio.vercel.app/_
 
 ---
 Don't be motivated, be a consistant
